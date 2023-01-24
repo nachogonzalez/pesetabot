@@ -1,0 +1,2 @@
+# pesetabot
+Cryptocurrency arbitrage bot
